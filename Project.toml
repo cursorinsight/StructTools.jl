@@ -1,7 +1,10 @@
 name = "StructTools"
 uuid = "bd5fc752-2b60-485d-a90f-83cd0dea5713"
 authors = ["Cursor Insight <info@cursorinsight.com>"]
-version = "0.1.0"
+version = "0.2.0"
+
+[deps]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 
 [compat]
 julia = "1.7"
