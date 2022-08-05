@@ -1,0 +1,7 @@
+name = "StructTools"
+uuid = "bd5fc752-2b60-485d-a90f-83cd0dea5713"
+authors = ["Cursor Insight <info@cursorinsight.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
