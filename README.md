@@ -1,5 +1,7 @@
 # StructTools.jl
 
+[![CI](https://github.com/cursorinsight/StructTools.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/cursorinsight/StructTools.jl/actions/workflows/CI.yml)
+
 StructTools.jl is a Julia package that provides variopus utilities for structs.
 
 ## Installation
